@@ -36,7 +36,7 @@
 #include <hardware/hardware.h>
 #include <hardware/gralloc.h> // buffer_handle_t
 #include <linux/msm_mdp.h> // flags
-#include <linux/msm_rotator.h>
+#include "linux/msm_rotator.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

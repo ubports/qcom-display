@@ -30,7 +30,7 @@
 #ifndef GRALLOC_IONALLOC_H
 #define GRALLOC_IONALLOC_H
 
-#include <linux/msm_ion.h>
+#include "linux/msm_ion.h"
 #include "memalloc.h"
 #include "gr.h"
 

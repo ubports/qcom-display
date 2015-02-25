@@ -38,7 +38,7 @@
 #include "comptype.h"
 
 #ifdef VENUS_COLOR_FORMAT
-#include <media/msm_media_info.h>
+#include "media/msm_media_info.h"
 #else
 #define VENUS_Y_STRIDE(args...) 0
 #define VENUS_Y_SCANLINES(args...) 0

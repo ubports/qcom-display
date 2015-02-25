@@ -30,7 +30,7 @@
 #include <fcntl.h>
 #include <sys/ioctl.h>
 #include <linux/fb.h>
-#include <linux/msm_mdp.h>
+#include "linux/msm_mdp.h"
 #include "mdp_version.h"
 
 ANDROID_SINGLETON_STATIC_INSTANCE(qdutils::MDPVersion);

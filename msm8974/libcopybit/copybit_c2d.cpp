@@ -31,7 +31,7 @@
 #include <sys/types.h>
 #include <sys/mman.h>
 
-#include <linux/msm_kgsl.h>
+#include "linux/msm_kgsl.h"
 
 #include <EGL/eglplatform.h>
 #include <cutils/native_handle.h>

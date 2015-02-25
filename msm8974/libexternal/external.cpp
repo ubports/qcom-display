@@ -28,7 +28,7 @@
 #include <utils/Log.h>
 
 #include <linux/msm_mdp.h>
-#include <video/msm_hdmi_modes.h>
+#include "video/msm_hdmi_modes.h"
 #include <linux/fb.h>
 #include <sys/ioctl.h>
 #include <sys/poll.h>
